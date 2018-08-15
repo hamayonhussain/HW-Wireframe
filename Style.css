@@ -9,11 +9,19 @@ body {
 }
 header {
     background: #ebebeb;
+<<<<<<< HEAD
     padding-top: 40px;
     padding-bottom: 40px;
     padding-left: 40px;
     padding-right: 40px;
     text-align: center
+=======
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    border: 10px;
+    
+>>>>>>> f63a6b8df465b1a1f235057b6f5f09c5f323f2fe
 }
 
 nav {
@@ -28,17 +36,28 @@ nav {
 
 section {
     background: #ebebeb;
+<<<<<<< HEAD
     border: 10px;
     padding: 30px;
     width: 495px;
     text-align: center;
   
     
+=======
+    margin: 10px;
+    
+    padding-bottom: 50px;
+    content: 20px;
+    height: 20px;
+    width: 495px;
+    text-align: center;
+>>>>>>> f63a6b8df465b1a1f235057b6f5f09c5f323f2fe
 }
 
 aside {
     color: #777;
     background: #ebebeb;
+<<<<<<< HEAD
     margin-right: .100;
     margin-right: 10px;
     padding-top: 40‒;
@@ -48,30 +67,52 @@ aside {
     padding-left: 60px;
     padding-right: 60px;
    
+=======
+    text-align: center;
+    width: 380px;
+    padding-bottom: 165px;
+    float: right;
+    margin-bottom: 500px;
+    clear: left;
+>>>>>>> f63a6b8df465b1a1f235057b6f5f09c5f323f2fe
 }
 
 
 article {
     color: #ebebeb;
     background: #777;
+<<<<<<< HEAD
+=======
+    text-align: center;
+    border: 30px;
+    width: 495px;
+>>>>>>> f63a6b8df465b1a1f235057b6f5f09c5f323f2fe
 }
 
 h1 {
     color: #777;
     background: #ebebeb;
     font-size: 17px;
+    width: 495px;
+    text-align: center;
 }
 
 p {
     color: #777;
-    background: #ebebeb
-
-
+    background: #ebebeb;
+    text-align: center;
+    width: 495px;
 }
 
 
 footer {
     background: #ebebeb;
+<<<<<<< HEAD
     clear: both;
     text-align: center
+=======
+    margin: 30px;
+    padding: 30px;
+    text-align: center;
+>>>>>>> f63a6b8df465b1a1f235057b6f5f09c5f323f2fe
 }
