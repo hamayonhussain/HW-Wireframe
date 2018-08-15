@@ -4,115 +4,92 @@ body {
     background: #777;
     width: 960px;
     font-size: 18px;
-    padding-left: 250px;
-
-}
-header {
+    padding-left: 170px;
+   
+   }
+   header {
     background: #ebebeb;
-<<<<<<< HEAD
-    padding-top: 40px;
-    padding-bottom: 40px;
-    padding-left: 40px;
-    padding-right: 40px;
-    text-align: center
-=======
+    padding: 40px;
+    text-align: center;
     margin: 10px;
-    padding: 20px;
-    text-align: center;
-    border: 10px;
-    
->>>>>>> f63a6b8df465b1a1f235057b6f5f09c5f323f2fe
-}
-
-nav {
+   
+   
+   }
+   
+   nav {
     background: #ebebeb;
     text-align: center;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    padding-left: 40px;
-    padding-right: 40px;
-    
-}
-
-section {
-    background: #ebebeb;
-<<<<<<< HEAD
-    border: 10px;
-    padding: 30px;
-    width: 495px;
-    text-align: center;
-  
-    
-=======
+    padding: 40px;
     margin: 10px;
-    
-    padding-bottom: 50px;
-    content: 20px;
-    height: 20px;
-    width: 495px;
+   
+   
+   
+   }
+   
+   section {
+    background: #ebebeb;
+    width: 480px;
     text-align: center;
->>>>>>> f63a6b8df465b1a1f235057b6f5f09c5f323f2fe
-}
-
-aside {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 10px;
+   
+   }
+   
+   aside {
     color: #777;
     background: #ebebeb;
-<<<<<<< HEAD
-    margin-right: .100;
-    margin-right: 10px;
-    padding-top: 40‒;
-    padding-top: 40‒;
-    padding-top: 50px;
-    padding-bottom: 200px;
-    padding-left: 60px;
-    padding-right: 60px;
-   
-=======
-    text-align: center;
-    width: 380px;
-    padding-bottom: 165px;
     float: right;
-    margin-bottom: 500px;
-    clear: left;
->>>>>>> f63a6b8df465b1a1f235057b6f5f09c5f323f2fe
-}
-
-
-article {
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 243px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+   }
+   
+   
+   article {
     color: #ebebeb;
     background: #777;
-<<<<<<< HEAD
-=======
     text-align: center;
-    border: 30px;
-    width: 495px;
->>>>>>> f63a6b8df465b1a1f235057b6f5f09c5f323f2fe
-}
-
-h1 {
+    width: 438px;
+    padding-top: 20px;
+    margin-left: 20px;
+    padding-bottom: 20px;
+   }
+   
+   h1 {
     color: #777;
     background: #ebebeb;
     font-size: 17px;
-    width: 495px;
+    width: 380px;
     text-align: center;
-}
-
-p {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 30px;
+    padding-left: -20px;
+   }
+   
+   p {
     color: #777;
     background: #ebebeb;
     text-align: center;
-    width: 495px;
-}
-
-
-footer {
+    width: 380px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 30px;
+   }
+   
+   
+   
+   footer {
     background: #ebebeb;
-<<<<<<< HEAD
     clear: both;
-    text-align: center
-=======
-    margin: 30px;
-    padding: 30px;
     text-align: center;
->>>>>>> f63a6b8df465b1a1f235057b6f5f09c5f323f2fe
-}
+    padding: 40px;
+    margin: 10px;
+   
+   
+   }
