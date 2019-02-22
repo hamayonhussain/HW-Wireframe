@@ -5,38 +5,32 @@ body {
     width: 960px;
     font-size: 18px;
     padding-left: 170px;
-   
-   }
-   header {
+}
+
+header {
     background: #ebebeb;
     padding: 40px;
     text-align: center;
     margin: 10px;
-   
-   
-   }
-   
-   nav {
+}
+
+nav {
     background: #ebebeb;
     text-align: center;
     padding: 40px;
     margin: 10px;
-   
-   
-   
-   }
-   
-   section {
+}
+
+section {
     background: #ebebeb;
     width: 480px;
     text-align: center;
     padding-top: 30px;
     padding-bottom: 30px;
     margin-left: 10px;
-   
-   }
-   
-   aside {
+}
+
+aside {
     color: #777;
     background: #ebebeb;
     float: right;
@@ -47,10 +41,9 @@ body {
     padding-bottom: 243px;
     margin-bottom: 10px;
     margin-right: 10px;
-   }
-   
-   
-   article {
+}
+
+article {
     color: #ebebeb;
     background: #777;
     text-align: center;
@@ -58,9 +51,9 @@ body {
     padding-top: 20px;
     margin-left: 20px;
     padding-bottom: 20px;
-   }
-   
-   h1 {
+}
+
+h1 {
     color: #777;
     background: #ebebeb;
     font-size: 17px;
@@ -70,9 +63,9 @@ body {
     padding-bottom: 15px;
     margin-left: 30px;
     padding-left: -20px;
-   }
-   
-   p {
+}
+
+p {
     color: #777;
     background: #ebebeb;
     text-align: center;
@@ -80,16 +73,15 @@ body {
     padding-top: 15px;
     padding-bottom: 15px;
     margin-left: 30px;
-   }
-   
-   
-   
-   footer {
+}
+
+footer {
     background: #ebebeb;
     clear: both;
     text-align: center;
     padding: 40px;
     margin: 10px;
-   
-   
-   }
+}
+
+
+
